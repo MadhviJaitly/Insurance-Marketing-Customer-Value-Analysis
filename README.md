@@ -16,4 +16,32 @@ I have used Linear Regression Modelling Technique to solve this problem.
 
 ## About Project 
 
+**1. Significant Variables:**
+* Coverage – type of coverage client has: Basic, Extended & Premium.
+* Education – qualification of the employee
+* Employment Status – Employed
+* Gender
+* Income of the client
+* Marital Status of the client
+* Monthly Premium the client pays
+* Months Since Policy Inception
+* Number of Open Complaints – 1, 3, 4 and 5
+* Number of Policies
+* Total Claim Amount
+
+**2. Outcome:**
+* R – Square and Adjusted R – Square are 92% which indicates that the model is efficient.
+* MAPE = 9% is low which indicates that there are less errors.
+* Independent Variables are not Correlated.
+* The data is Heteroscedastic and not Serially Correlated.
+* Residuals are not Normally Distributed.
+
+**3. Strategy:**
+
+To increase the profit we need to focus on:
+* Clients who has minimum bachelors qualifications.
+* Clients who are “Employed”.
+* Clients who have minimum number of open complaints.
+
+
 
