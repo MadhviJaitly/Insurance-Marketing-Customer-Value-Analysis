@@ -14,3 +14,6 @@ I have used Linear Regression Modelling Technique to solve this problem.
 7)	Check which variables are significant by looking at p values and business reasons?
 8)	Do different tests like multicollinearity test, Homoscedasticity test, Normality test, MAPE.
 
+## About Project 
+
+
